@@ -57,6 +57,17 @@
     <version>4.11.2</version>
 </dependency>
    
+      <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi</artifactId>
+        <version>5.2.3</version>  <!-- Ensure this version matches the latest available -->
+    </dependency>
+
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.2.3</version>  <!-- Ensure this version matches the latest available -->
+    </dependency>  
   
     <dependency>
         <groupId>org.slf4j</groupId>
